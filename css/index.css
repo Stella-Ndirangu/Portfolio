@@ -17,11 +17,25 @@ h1{
   font-family: Courier;
   color: #fff;
   margin-left: 850px;
-  margin-top: 400px;
+  margin-top: 350px;
 }
 br{
   line-height: 50px;
 }
 .quote{
   margin-left: 100px;
+}
+#left{
+  margin-left: 900px;
+  margin-top: 50px;
+}
+#right{
+  margin-left: 1250px;
+}
+#portfolio_link{
+  font-size: 60px;
+  margin-left: 950px;
+  font-weight: bolder;
+  margin-top: 150px
+
 }

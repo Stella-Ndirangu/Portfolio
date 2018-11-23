@@ -15,5 +15,13 @@ h1{
 .firstpage p{
   font-size: 30px;
   font-family: Courier;
-  color: #fff
+  color: #fff;
+  margin-left: 850px;
+  margin-top: 400px;
+}
+br{
+  line-height: 50px;
+}
+.quote{
+  margin-left: 100px;
 }

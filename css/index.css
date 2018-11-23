@@ -1,0 +1,19 @@
+body{
+  background-image: url("../images/portfolio_bg.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+h1{
+  color: blue;
+  text-align: center;
+}
+@font-face {
+  font-family: Pacifico;
+  src: url("../Pacifico-Regular.ttf");
+}
+.firstpage p{
+  font-size: 30px;
+  font-family: Courier;
+  color: #fff
+}

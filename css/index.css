@@ -24,7 +24,7 @@ ul{
   display: block;
   padding: 30px;
   color: #ffffff;
-  text-align: center;
+  text-decoration: none;
 }
 
 h1{
@@ -48,9 +48,12 @@ br{
 .quote{
   margin-left: 100px;
 }
+.pagelink p a{
+  color: #fff;
+}
 #portfolio_link{
   font-size: 60px;
   margin-left: 950px;
   font-weight: bolder;
-  margin-top: 100px
+  margin-top: 100px;
 }

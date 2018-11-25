@@ -31,16 +31,12 @@ h1{
   color: blue;
   text-align: center;
 }
-@font-face {
-  font-family: Pacifico;
-  src: url("../Pacifico-Regular.ttf");
-}
 .firstpage p{
-  font-size: 30px;
-  font-family: Courier;
+  font-size: 100px;
   color: #fff;
   margin-left: 850px;
-  margin-top: 300px;
+  margin-top: 200px;
+  font-family: 'Tangerine', serif;
 }
 br{
   line-height: 50px;

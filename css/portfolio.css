@@ -1,4 +1,7 @@
 body{
+  background-image: url("../images/tree-bg.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
   display: inline;
 }
 .menu {
@@ -21,4 +24,75 @@ body{
   padding: 30px;
   color: #fff;
   text-decoration: none;
+}
+.prof-pic img{
+  height: 300px;
+  border-radius: 50%;
+  margin-left: 770px;
+  margin-top: 20px;
+}
+.about-me{
+  text-align: center;
+  margin-left: 500px;
+  margin-right: 500px;
+}
+.about-me h1 {
+  font-size: 40px;
+  font-family: fantasy;
+}
+.about-me p{
+  font-size: 20px;
+}
+.projects{
+  text-align: center;
+  display: block;
+  margin-top: 60px;
+  margin-left: 200px;
+  margin-right: 200px;
+  column-count: 3;
+  column-gap: 40px;
+}
+.mid {
+  text-align: center;
+  margin-top: 60px;
+}
+.mid h2{
+  font-size: 30px;
+
+}
+.projects img{
+  margin-top: 20px;
+}
+.column1{
+  background-color: #29b6f6;
+  height: 800px;
+  width: 400px;
+  color: #fff;
+  font-size: 20px;
+  line-height: 40px;
+}
+.column1 h3{
+  text-decoration: underline;
+}
+.column2{
+  background-color: #fdff72;
+  height: 800px;
+  width: 400px;
+  color: #000;
+  font-size: 20px;
+  line-height: 40px;
+}
+.column2 h3{
+  text-decoration: underline;
+}
+.column3{
+  background-color: #ff66cc;
+  height: 800px;
+  width: 400px;
+  color: #fff;
+  font-size: 20px;
+  line-height: 40px;
+}
+.column3 h3{
+  text-decoration: underline;
 }

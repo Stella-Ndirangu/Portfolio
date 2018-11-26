@@ -1,0 +1,34 @@
+body{
+  background-color: #fffdd0;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: inline;
+}
+.menu {
+  text-align: center;
+  background-color: #000;
+  height: 80px;
+  width: auto;
+  margin-top: -40px;
+}
+#menulink ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+.menu li{
+  display: inline-block;
+}
+.menu li a{
+  display: block;
+  padding: 30px;
+  color: #fff;
+  text-decoration: none;
+}
+.social{
+  text-align: center;
+  margin-top: 300px;
+  margin-left: 500px;
+  margin-right: 500px;
+  background-color: #ffddaf;
+}

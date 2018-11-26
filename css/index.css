@@ -35,6 +35,7 @@ h1{
   font-size: 100px;
   color: #fff;
   margin-left: 850px;
+  margin-right: 200px;
   margin-top: 200px;
   font-family: 'Tangerine', serif;
 }
@@ -49,7 +50,7 @@ br{
 }
 #portfolio_link{
   font-size: 60px;
-  margin-left: 950px;
+  margin-left: 1000px;
   font-weight: bolder;
   margin-top: 100px;
 }
